@@ -11,9 +11,6 @@
   <a href="https://github.com/MarinaMastroleo">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=MarinaMastroleo.MarinaMastroleo" alt="Visitor Badge"/>
   </a>
-  <a href="https://github.com/MarinaMastroleo?tab=followers">
-    <img src="https://img.shields.io/github/followers/MarinaMastroleo.svg?style=social&label=Follow" alt="GitHub followers"/>
-  </a>
 </p>
 
 
