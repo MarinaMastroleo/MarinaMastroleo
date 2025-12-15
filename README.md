@@ -6,6 +6,35 @@
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 --->
+## About Me 🌟
+
+🎓 **MSc Student in Computer Science and Engineering** @ Politecnico di Milano  
+🤖 **Focus:** Artificial Intelligence & Machine Learning  
+🧠 **Curious about:** Exploring how complex mechanisms work and tackling challenging problems that foster growth  
+🌐 **Collaboration:** Experienced in teamwork through several group projects at PoliMi  
+🎨 **Creativity:** Applying creative thinking to both technical and non-technical projects  
+🗺️ **Interests beyond Tech:** music 🎶, learning new languages 🌎, swimming 🏊🏻‍♀️, classical ballet 🩰  
+
+I enjoy dynamic, challenging environments that encourage learning, innovation, and creative problem-solving, and I’m eager to contribute my skills to drive meaningful results.  
+
+---
+
+## 👩‍💻 Skills
+
+**Programming Languages:** C, Java, Python, HTML, CSS, JavaScript  
+**Machine Learning & Deep Learning:** TensorFlow, Scikit-learn, PyTorch, LLMs  
+**Word Processing:** Word, LaTeX  
+**Spreadsheets:** Excel  
+**Database Management:** MySQL  
+**Tools & Platforms:** Git, Vivado Design Suite, Wireshark, Google Colab, Kaggle, Wokwi, Node-RED
+
+---
+
+📧 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-mastroleo/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marina.mastroleo@mail.polimi.it)
+---
 
 <p align="center">
   <a href="https://github.com/MarinaMastroleo">
