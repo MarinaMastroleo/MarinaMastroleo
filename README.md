@@ -13,7 +13,14 @@
 🧠 **Curious about:** Exploring how complex mechanisms work and tackling challenging problems that foster growth  
 🌐 **Collaboration:** Experienced in teamwork through several group projects at PoliMi  
 🎨 **Creativity:** Applying creative thinking to both technical and non-technical projects  
-🗺️ **Interests beyond Tech:** music 🎶, learning new languages 🌎, swimming 🏊🏻‍♀️, classical ballet 🩰  
+💃🏻 **Some of my interests beyond Tech:**  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➤ music 🎶  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➤ learning new languages 🌎  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➤ swimming 🏊🏻‍♀️  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➤ classical ballet 🩰
+
+
+
 
 I enjoy dynamic, challenging environments that encourage learning, innovation, and creative problem-solving, and I’m eager to contribute my skills to drive meaningful results.  
 
