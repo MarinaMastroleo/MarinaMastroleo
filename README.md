@@ -10,14 +10,10 @@
 
 🎓 **MSc Student in Computer Science and Engineering** @ Politecnico di Milano  
 🤖 **Focus:** Artificial Intelligence & Machine Learning  
-🧠 **Curious about:** Exploring how complex mechanisms work and tackling challenging problems that foster growth  
-🌐 **Collaboration:** Experienced in teamwork through several group projects at PoliMi  
-🎨 **Creativity:** Applying creative thinking to both technical and non-technical projects  
-💃🏻 **Some of my interests beyond Tech:**  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➤ music 🎶  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➤ learning new languages 🌎  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➤ swimming 🏊🏻‍♀️  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;➤ classical ballet 🩰
+🧠 **Curious about:** exploring how complex mechanisms work and tackling challenging problems that foster growth  
+🌐 **Collaboration:** experienced in teamwork through several group projects at PoliMi  
+🎨 **Creativity:** applying creative thinking to both technical and non-technical projects  
+💃🏻 **Some of my interests beyond Tech:** music, learning new languages, swimming, classical ballet  
 
 
 
