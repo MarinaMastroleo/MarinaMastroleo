@@ -33,7 +33,7 @@ I enjoy dynamic, challenging environments that encourage learning, innovation, a
 
 ---
 
-📧 Connect
+## 📧 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-mastroleo)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marina.mastroleo@mail.polimi.it)
