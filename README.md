@@ -24,12 +24,13 @@ I enjoy dynamic, challenging environments that encourage learning, innovation, a
 
 ## 👩‍💻 Skills
 
-**Programming Languages:** C, Java, Python, HTML, CSS, JavaScript  
-**Machine Learning & Deep Learning:** TensorFlow, Scikit-learn, PyTorch, LLMs  
-**Word Processing:** Word, LaTeX  
-**Spreadsheets:** Excel  
+**Programming Languages:** Python, C, Java, HTML, CSS, JavaScript  
+**Machine Learning & AI:** TensorFlow, Scikit-learn, PyTorch  
+**Libraries:** lifelines, numpy, pycox, scikit-survival (Survival Analysis); pykan, coxkan (KANs)  
 **Database Management:** MySQL  
-**Tools & Platforms:** Git, Vivado Design Suite, Wireshark, Google Colab, Kaggle, Wokwi, Node-RED
+**Development & DevOps:** Git, Docker, Google Colab  
+**Hardware & IoT Simulation:** Vivado Design Suite (VHDL), Wokwi, Node-RED, Wireshark  
+**Scientific Writing:** LaTeX  
 
 ---
 
