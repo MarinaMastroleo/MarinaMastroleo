@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 --->
-## About Me 🌟
+## 🌟 About Me 
 
 🎓 **MSc in Computer Science and Engineering** @ Politecnico di Milano  
 🤖 **Focus:** Artificial Intelligence & Machine Learning  
