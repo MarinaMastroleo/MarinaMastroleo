@@ -30,7 +30,7 @@ I’m eager to contribute my skills to drive meaningful results.
 
 **Data Cleaning:** [Data Quality Pipeline for "Comune di Milano" dataset](https://github.com/MarinaMastroleo/Data-and-Information-Quality-Project--2024-2025)
 
-**Digital Logic Design:** [VHDL](https://github.com/MarinaMastroleo/ProjectVHDL-Reti_Logiche_22-23)
+**Digital Logic Design:** [Custom FSM & Datapath Design in VHDL](https://github.com/MarinaMastroleo/ProjectVHDL-Reti_Logiche_22-23)
 
 **Software Engineering:** [MyShelfie Board Game](https://github.com/MarinaMastroleo/ing-sw-2023-Fossa-Gabriele-Galbiati-Mastroleo)
 
