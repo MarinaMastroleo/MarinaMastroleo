@@ -22,19 +22,6 @@ I enjoy dynamic, challenging environments that encourage learning, innovation, a
 
 ---
 
-## 👩‍💻 Skills
-
-**Programming Languages:** Python, C, Java, HTML, CSS, JavaScript  
-**Machine Learning & AI:** TensorFlow, Scikit-learn, PyTorch  
-**Libraries:** lifelines, numpy, pycox, scikit-survival (Survival Analysis); pykan, coxkan (KANs)  
-**Database Management:** MySQL  
-**Development & DevOps:** Git, Docker, Google Colab  
-**Hardware & IoT Simulation:** Vivado Design Suite (VHDL), Wokwi, Node-RED, Wireshark  
-**Scientific Writing:** LaTeX  
-
-
----
-
 
 ## 🚀 My projects 
 
@@ -56,6 +43,20 @@ I enjoy dynamic, challenging environments that encourage learning, innovation, a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-mastroleo)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marina.mastroleo@mail.polimi.it)
+
+---
+
+## 👩‍💻 Skills
+
+**Programming Languages:** Python, C, Java, HTML, CSS, JavaScript  
+**Machine Learning & AI:** TensorFlow, Scikit-learn, PyTorch  
+**Libraries:** lifelines, numpy, pycox, scikit-survival (Survival Analysis); pykan, coxkan (KANs)  
+**Database Management:** MySQL  
+**Development & DevOps:** Git, Docker, Google Colab  
+**Hardware & IoT Simulation:** Vivado Design Suite (VHDL), Wokwi, Node-RED, Wireshark  
+**Scientific Writing:** LaTeX  
+
+
 ---
 
 <p align="center">
@@ -63,6 +64,8 @@ I enjoy dynamic, challenging environments that encourage learning, innovation, a
     <img src="https://visitor-badge.laobi.icu/badge?page_id=MarinaMastroleo.MarinaMastroleo" alt="Visitor Badge"/>
   </a>
 </p>
+
+
 
 <!---
 MarinaMastroleo/MarinaMastroleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
