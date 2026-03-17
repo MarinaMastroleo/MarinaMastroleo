@@ -26,7 +26,7 @@ I’m eager to contribute my skills to drive meaningful results.
 
 ## 🚀 My projects 
 
-**Artificial Neural Networks & Deep Learning:** [CNN with an **ASPP** and **Transformer** bottleneck. Enhanced the decoder with **Squeeze-and-Excitation** and attention mechanisms](#)   |   [Blood Cell ConvNeXt Classifier (Transfer Learning, RandAugment)](#)
+**Artificial Neural Networks & Deep Learning:** [CNN with an **ASPP** and **Transformer** bottleneck. Enhanced with **Squeeze-and-Excitation** and attention mechanisms](#)   |   [Blood Cell ConvNeXt Classifier (Transfer Learning, RandAugment)](#)
 
 **Data Cleaning:** [Data Quality Pipeline for "Comune di Milano" dataset](#)
 
