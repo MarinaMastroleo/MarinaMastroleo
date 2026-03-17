@@ -8,7 +8,7 @@
 --->
 ## About Me 🌟
 
-🎓 **MSc Student in Computer Science and Engineering** @ Politecnico di Milano  
+🎓 **MSc in Computer Science and Engineering** @ Politecnico di Milano  
 🤖 **Focus:** Artificial Intelligence & Machine Learning  
 🧠 **Curious about:** exploring how complex mechanisms work and tackling challenging problems that foster growth  
 🌐 **Collaboration:** experienced in teamwork through several group projects at PoliMi  
@@ -32,6 +32,24 @@ I enjoy dynamic, challenging environments that encourage learning, innovation, a
 **Hardware & IoT Simulation:** Vivado Design Suite (VHDL), Wokwi, Node-RED, Wireshark  
 **Scientific Writing:** LaTeX  
 
+
+---
+
+
+## 🚀 My projects 
+
+**Artificial Neural Networks & Deep Learning:** [CNN with an **ASPP** and **Transformer** bottleneck. Enhanced the decoder with **Squeeze-and-Excitation** and attention mechanisms](#)   |   [Blood Cell ConvNeXt Classifier (Transfer Learning, RandAugment)](#)
+
+**Data Cleaning:** [Data Quality Pipeline for "Comune di Milano" dataset](#)
+
+**Software Engineering:** [MyShelfie Board Game](#)
+
+**Web Programming:** [Full-Stack MySQL Web App in pure HTML & in HTML+Javascript version](#)
+
+**IoT & Hardware:** [IoT Smart Parking Network](#)   |   [VHDL Digital Logic Design](#)
+
+
+
 ---
 
 ## 📧 Connect
@@ -45,7 +63,6 @@ I enjoy dynamic, challenging environments that encourage learning, innovation, a
     <img src="https://visitor-badge.laobi.icu/badge?page_id=MarinaMastroleo.MarinaMastroleo" alt="Visitor Badge"/>
   </a>
 </p>
-
 
 <!---
 MarinaMastroleo/MarinaMastroleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
