@@ -26,15 +26,15 @@ I’m eager to contribute my skills to drive meaningful results.
 
 ## 🚀 My projects 
 
-**Artificial Neural Networks & Deep Learning:** [CNN with an **ASPP** and **Transformer** bottleneck. Enhanced with **Squeeze-and-Excitation** and attention mechanisms](#)   |   [Blood Cell ConvNeXt Classifier (Transfer Learning, RandAugment)](#)
+**Artificial Neural Networks & Deep Learning:** [CNN with an **ASPP** and **Transformer** bottleneck. Enhanced with **Squeeze-and-Excitation** and attention mechanisms](https://github.com/MarinaMastroleo/Artificial-Neural-Networks-and-Deep-Learning-2024-2025---Homework-2)   |   [Blood Cell ConvNeXt Classifier (Transfer Learning, RandAugment)](https://github.com/MarinaMastroleo/Artificial-Neural-Networks-and-Deep-Learning-2024-2025---Homework-1)
 
-**Data Cleaning:** [Data Quality Pipeline for "Comune di Milano" dataset](#)
+**Data Cleaning:** [Data Quality Pipeline for "Comune di Milano" dataset](https://github.com/MarinaMastroleo/Data-and-Information-Quality-Project--2024-2025)
 
-**Software Engineering:** [MyShelfie Board Game](#)
+**Software Engineering:** [MyShelfie Board Game](https://github.com/MarinaMastroleo/ing-sw-2023-Fossa-Gabriele-Galbiati-Mastroleo)
 
-**Web Programming:** [Full-Stack MySQL Web App in pure HTML & in HTML+Javascript version](#)
+**Web Programming:** [Full-Stack MySQL Web App in pure HTML](https://github.com/MarinaMastroleo/TIW-HTML-pure) | [Full-Stack MySQL Web App in HTML+Javascript](https://github.com/MarinaMastroleo/TIW-RIA)
 
-**IoT & Hardware:** [IoT Smart Parking Network](#)   |   [VHDL Digital Logic Design](#)
+**IoT & Hardware:** [IoT Smart Parking Network](https://github.com/MarinaMastroleo/Internet-Of-Things-Challenges-A.Y.-2023-2024)   |   [VHDL Digital Logic Design](https://github.com/MarinaMastroleo/ProjectVHDL-Reti_Logiche_22-23)
 
 
 
