@@ -30,13 +30,14 @@ I’m eager to contribute my skills to drive meaningful results.
 
 **Data Cleaning:** [Data Quality Pipeline for "Comune di Milano" dataset](https://github.com/MarinaMastroleo/Data-and-Information-Quality-Project--2024-2025)
 
+**Digital Logic Design:** [VHDL](https://github.com/MarinaMastroleo/ProjectVHDL-Reti_Logiche_22-23)
+
 **Software Engineering:** [MyShelfie Board Game](https://github.com/MarinaMastroleo/ing-sw-2023-Fossa-Gabriele-Galbiati-Mastroleo)
 
 **Web Programming:** [Full-Stack MySQL Web App in pure HTML](https://github.com/MarinaMastroleo/TIW-HTML-pure) | [Full-Stack MySQL Web App in HTML+Javascript](https://github.com/MarinaMastroleo/TIW-RIA)
 
 **IoT:** [IoT Smart Parking Network](https://github.com/MarinaMastroleo/Internet-Of-Things-Challenges-A.Y.-2023-2024)   
 
-**Digital Logic Design:** [VHDL](https://github.com/MarinaMastroleo/ProjectVHDL-Reti_Logiche_22-23)
 
 
 ---
