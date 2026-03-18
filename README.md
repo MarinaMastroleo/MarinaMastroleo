@@ -18,7 +18,7 @@
 
 
 
-I enjoy dynamic, challenging environments that encourage learning, innovation, and creative problem-solving. \
+I enjoy dynamic, challenging environments that encourage learning, innovation and creative problem-solving. \
 I’m eager to contribute my skills to drive meaningful results.  
 
 ---
