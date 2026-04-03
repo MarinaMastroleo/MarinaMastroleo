@@ -8,12 +8,14 @@
 --->
 ## 🌟 About Me 
 
-🎓 **MSc in Computer Science and Engineering** @ Politecnico di Milano  
-🤖 **Focus:** Artificial Intelligence & Machine Learning  
-🧠 **Curious about:** exploring how complex mechanisms work and tackling challenging problems that foster growth  
-🌐 **Collaboration:** experienced in teamwork through several group projects at PoliMi  
-🎨 **Creativity:** applying creative thinking to both technical and non-technical projects  
-💃🏻 **Some of my interests beyond Tech:** music, learning new languages, swimming, classical ballet  
+🎓 **MSc in Computer Science and Engineering** @ Politecnico di Milano.  
+🤖 **Focus on** Artificial Intelligence & Machine Learning.  
+
+🧠 **Curious about** exploring how complex mechanisms work and tackling challenging problems that foster growth.  
+🌐 **Experienced in teamwork** through several group projects at PoliMi.  
+🎨 Applying **creative thinking** to both technical and non-technical projects.  
+
+💃🏻 **Some of my interests beyond tech:** music, learning new languages, swimming, classical ballet  
 
 
 
@@ -26,7 +28,7 @@ I’m eager to contribute my skills to drive meaningful results.
 
 ## 🚀 My projects 
 
-**Artificial Neural Networks & Deep Learning:** [CNN with an **ASPP** and **Transformer** bottleneck. Enhanced with **Squeeze-and-Excitation** and attention mechanisms](https://github.com/MarinaMastroleo/Artificial-Neural-Networks-and-Deep-Learning-2024-2025---Homework-2)   |   [Blood Cell ConvNeXt Classifier (Transfer Learning, RandAugment)](https://github.com/MarinaMastroleo/Artificial-Neural-Networks-and-Deep-Learning-2024-2025---Homework-1)
+**Artificial Neural Networks & Deep Learning:** [CNN with **ASPP** and **Transformer** bottleneck; enhanced with **Squeeze-and-Excitation** and attention mechanisms](https://github.com/MarinaMastroleo/Artificial-Neural-Networks-and-Deep-Learning-2024-2025---Homework-2)   |   [Blood cell ConvNeXt classifier (Transfer Learning, RandAugment)](https://github.com/MarinaMastroleo/Artificial-Neural-Networks-and-Deep-Learning-2024-2025---Homework-1)
 
 **Data Cleaning:** [Data Quality Pipeline for "Comune di Milano" dataset](https://github.com/MarinaMastroleo/Data-and-Information-Quality-Project--2024-2025)
 
