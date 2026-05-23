@@ -8,7 +8,7 @@
 --->
 ## 🌟 About Me 
 
-🎓 **MSc in Computer Science and Engineering** @ Politecnico di Milano.  
+🎓 **BSc & MSc in Computer Science and Engineering** @ Politecnico di Milano.  
 🤖 **Focus on** Artificial Intelligence & Machine Learning.  
 
 🧠 **Curious about** exploring how complex mechanisms work and tackling challenging problems that foster growth.  
