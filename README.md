@@ -15,10 +15,6 @@
 🌐 **Experienced in teamwork** through several group projects at PoliMi.  
 🎨 Applying **creative thinking** to both technical and non-technical projects.  
 
-💃🏻 **Some of my interests beyond tech:** music, learning new languages, swimming, classical ballet  
-
-
-
 
 I enjoy dynamic, challenging environments that encourage learning, innovation and creative problem-solving. \
 I’m eager to contribute my skills to drive meaningful results.  
